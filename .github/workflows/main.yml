@@ -1,6 +1,7 @@
-name: Test github actions # 工作流程的名称
+name: Make AdobeBlock.yaml # 工作流程的名称
 
 on: # 什么时候触发
+  push:
   schedule:
     - cron: '0 0 * * *'  # 每天触发一次
 
