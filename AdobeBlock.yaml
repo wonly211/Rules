@@ -40,6 +40,7 @@ payload:
   - 54.224.241.105
   - 100.24.211.130
   - 162.247.242.20
+  - DOMAIN-SUFFIX,a2104gz1mh.adobe.io
   - DOMAIN-SUFFIX,3dns-1.adobe.com
   - DOMAIN-SUFFIX,3dns-2.adobe.com
   - DOMAIN-SUFFIX,3dns-3.adobe.com
